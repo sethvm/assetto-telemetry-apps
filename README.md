@@ -1,2 +1,2 @@
-# ac-sectorsplits-timer
-Assetto Corsa app that displays sector splits alongside overall lap times
+#assetto-python-apps
+A collection of UI extensions for Assetto Corsa
