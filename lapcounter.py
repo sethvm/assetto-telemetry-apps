@@ -3,11 +3,12 @@ import sys
 import ac
 import acsys
 
-# acMain sets up in-game application window
+# acMain gets called by AC when plugin is initialized
+# must return a string containing the app's name
 def acMain(ac_version):
     global l_lapcount
 
-    #r ender app widget
+    # render app widget
     appWindow = ac.newApp("appName")
     ac.setSize(appWindow, 200, 200)
 
