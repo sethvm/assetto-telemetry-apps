@@ -5,4 +5,5 @@ Telemetry UI extensions for Assetto Corsa
 Each folder contains a separate Python application. To use an application, place its folder in assettocorsa/apps/python and enable it via General Settings in-game. It will then be available for activation within the session toolbar.
 
 ## Credits
-**Giovanni Romagnoli (Kunos Simulazioni)** - AC Python API documentation
+**Giovanni Romagnoli** - AC Python API documentation
+**Kunos Simulazioni** - AC Shared Memory documentation
