@@ -6,4 +6,5 @@ Each folder contains a separate Python application. To use an application, place
 
 ## Credits
 **Giovanni Romagnoli** - AC Python API documentation
+
 **Kunos Simulazioni** - AC Shared Memory documentation
