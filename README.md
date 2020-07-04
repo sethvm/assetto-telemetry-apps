@@ -1,2 +1,2 @@
 # assetto-python-apps
-HUD telemetry extensions for Assetto Corsa
+Telemetry UI extensions for Assetto Corsa
