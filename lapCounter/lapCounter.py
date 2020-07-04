@@ -47,4 +47,4 @@ def acUpdate(deltaT):
     # updating lap count
     if laps > lapcount:
         lapcount = laps
-        ac.setText(l_lapcount, "Laps {}".format(lapcount))
+        ac.setText(l_lapcount, "Laps: {}".format(lapcount))
