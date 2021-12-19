@@ -1,5 +1,5 @@
 # 🏎️ Assetto Corsa Telemetry Apps
-#### Collection of telemetry UI extensions for Assetto Corsa
+Collection of telemetry UI extensions for Assetto Corsa
 
 ## Installation and Usage
 Each folder contains a separate Python application. To use an application, place its folder in assettocorsa/apps/python and enable it via General Settings in-game. It will then be available for activation within the session toolbar.
